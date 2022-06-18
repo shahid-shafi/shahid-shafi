@@ -3,12 +3,13 @@
 Hi👋, welcome to my profile, I'm Shahid!, a front-end developer.
 
 
-<p><img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=codewith-shahid&show_icons=true&theme=radical"/> </p>
+<p align="center">
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=codewith-shahid&show_icons=true&theme=radical"/> 
 
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewith-shahid&layout=compact"/>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewith-shahid&layout=compact"/>
+</p>
 
-
-<h3 align="left">My Skills</h3>
+# My Skills 
 <p align=""> 
 <img align="" margin-top="10%" alt="C programming" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 
@@ -29,9 +30,6 @@ Hi👋, welcome to my profile, I'm Shahid!, a front-end developer.
 <img align="" alt="GITHUB" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
  <p/>
 
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/codewith-shahid" target="blank"><img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' width="40"></a>
@@ -41,6 +39,14 @@ Hi👋, welcome to my profile, I'm Shahid!, a front-end developer.
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewith-shahid&" alt="codewith-shahid" /></p>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codewith-shahid&label=Profile%20views&color=0e75b6&style=flat" alt="codewith-shahid" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewith-shahid" alt="codewith-shahid" /></a> </p>
+
+- 🌱 I’m currently learning **React**
+
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, TailwindCSS, React**
+
+<p><img align="bottom" src="https://github-readme-streak-stats.herokuapp.com/?user=codewith-shahid&" alt="codewith-shahid" /></p>
