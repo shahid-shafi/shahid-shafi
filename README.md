@@ -15,11 +15,6 @@ Hi👋, welcome to my profile, I'm Shahid!, a front-end developer.
 <img align="" alt="GITHUB" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <p/>
 
-
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, TailwindCD, React**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/codewith_shahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewith_shahid" height="30" width="40" /></a>
