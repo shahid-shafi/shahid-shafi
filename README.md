@@ -1,6 +1,6 @@
 ![](https://pbs.twimg.com/profile_banners/1497596794188210178/1655614045/1500x500) 
 # **Shahid Shafi**
-Hi👋, welcome to my profile, I'm Shahid!, a front-end developer.
+Hi👋, welcome to my profile, I'm Shahid!, a front-end developer, focused on crafting clean & user‑friendly experiences, I am passionate about building excellent software that improves the lives of those around me.
 
 # My Skills 
 <p width="100%"> 
