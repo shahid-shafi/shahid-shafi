@@ -1,8 +1,6 @@
 ![](https://pbs.twimg.com/profile_banners/1497596794188210178/1655614045/1500x500) 
 # **Shahid Shafi**
 Hi there👋!
-My name is Shahid Shafi and I am a web developer with a background in mechanical engineering, but I always had a passion for technology. After completing my degree, I decided to switch my focus to IT, and I have never looked back.
-
 I am a web developer with experience in various technologies including HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, TypeScript, React, Next, Redux, Node.js, MongoDB, Mui, Ant Design, Git, GitHub, VS-Code, and Postman.
 
 I have a strong foundation in front-end development and am skilled at creating visually appealing and user-friendly websites using Html, CSS, JavaScript, React, and Next. I am proficient in using Sass, Bootstrap, and Tailwind to streamline the styling process, and have experience with modern front-end frameworks such as React and Next.
