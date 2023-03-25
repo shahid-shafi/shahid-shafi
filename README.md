@@ -1,7 +1,9 @@
 ![](https://pbs.twimg.com/profile_banners/1497596794188210178/1655614045/1500x500) 
 # **Shahid Shafi**
-Hi there! 👋
-I'm a web developer with expertise in a range of languages and frameworks, including HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, TypeScript, Python, React, Next, Redux, Node.js, MongoDB, Mui, Ant Design, Git, GitHub, VS-Code, and Postman.
+<h3>Hi there! 👋</h1>
+<h5>I'm a web developer with expertise in a range of languages and frameworks, 
+including HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, TypeScript, React, Next, Redux, Node.js, MongoDB,
+ Mui, Ant Design, Git, GitHub, VS-Code, and Postman.<h5>
 
 Skills
 Front-end development using HTML, CSS, JavaScript, React, and Next.
