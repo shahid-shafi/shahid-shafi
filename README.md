@@ -4,20 +4,21 @@
 I'm a web developer with expertise in a range of languages and frameworks, 
 including HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, TypeScript, React, Next, Redux, Node.js, MongoDB,
  Mui, Ant Design, Git, GitHub, VS-Code, and Postman.
+ 
+* Skills
+  * Front-end development using HTML, CSS, JavaScript, React, and Next.
+  * Styling with Sass, Bootstrap, and Tailwind.
+  * Modern front-end frameworks such as React and Next.
+  * Back-end development with Node.js and MongoDB.
+  * Libraries such as Context, Redux, Mui, and Ant-Design to manage state and design.
+  * Version control using Git.
+  * Collaboration and development with tools like GitHub and VSCode.
 
-Skills
-Front-end development using HTML, CSS, JavaScript, React, and Next.
-Styling with Sass, Bootstrap, and Tailwind.
-Modern front-end frameworks such as React and Next.
-Back-end development with Node.js and MongoDB.
-Libraries such as Context, Redux, Mui, and Ant-Design to manage state and design.
-Version control using Git.
-Collaboration and development with tools like GitHub and VSCode.
-About Me
-I have a strong foundation in front-end development and am skilled at creating visually appealing and user-friendly websites. I am constantly learning and improving my skills in web development, and I am always looking for new challenges and opportunities to grow as a developer. My goal is to create intuitive and user-friendly websites and applications that are visually appealing and functional.
+* About Me
+  *I have a strong foundation in front-end development and am skilled at creating visually appealing and user-friendly websites. I am constantly learning and improving my skills in web development, and I am always looking for new challenges and opportunities to grow as a developer. My goal is to create intuitive and user-friendly websites and applications that are visually appealing and functional.
 
-Contact Me
-I am excited to connect with other professionals in the industry and am open to new opportunities and collaborations. Feel free to reach out to me on LinkedIn or send me an email at [your_email_here] if you have any questions or would like to discuss a potential project.
+* Contact Me
+  * I am excited to connect with other professionals in the industry and am open to new opportunities and collaborations. Feel free to reach out to me on LinkedIn or send me an email at [your_email_here] if you have any questions or would like to discuss a potential project.
 
 # My Skills 
 <h3 align="left">Languages and Tools:</h3>
