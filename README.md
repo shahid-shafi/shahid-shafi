@@ -20,6 +20,10 @@ including HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, TypeScript, React, N
 * Contact Me
   * I am excited to connect with other professionals in the industry and am open to new opportunities and collaborations. Feel free to reach out to me on LinkedIn or send me an email at shahidshafi.dev@gmail.com if you have any questions or would like to discuss a potential project.
 
+### Support Me
+
+<a href="https://ko-fi.com/shahid_dev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+
 # My Skills 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
