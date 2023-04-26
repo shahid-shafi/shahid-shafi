@@ -3,7 +3,10 @@
 <h3>Hi there! 👋</h1>
 I'm a web developer with expertise in a range of languages and frameworks, 
 including HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, TypeScript, React, Next, Redux, Node.js, MongoDB,
- Mui, Ant Design, Git, GitHub, VS-Code, and Postman.
+ Mui, Ant Design, Git, GitHub, VS-Code, and Postman. &nbsp;
+ <div align='center' style='margin-top:30px'>
+ <img class="gif-anime" width='80%' src="https://www.lambdatest.com/resources/images/news24.gif"  />
+ </div>
  
 * Skills
   * Front-end development using HTML, CSS, JavaScript, React, and Next.
@@ -26,25 +29,29 @@ including HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, TypeScript, React, N
 
 # My Skills 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left">
- <div>
-        <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML badge" />
+<div align="center">
+ <div><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML badge" /></div>
+  <div>
         <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS badge" />
         <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass badge" />
+ </div>
+ <div>
         <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap badge" />
         <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind badge" />
  </div>
-  <div>
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+   <div>
+         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
         <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+ </div>
+  <div>
         <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
         <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next-dot-js&logoColor=white" alt="Next.js">
-  </div>
-  <div>
         <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux">
         <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node-dot-js&logoColor=white" alt="Node.js">
         <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+  </div>
+  <div>
         <img src="https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white" alt="Material-UI">
         <img src="https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat&logo=ant-design&logoColor=white" alt="Ant Design">
         <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
