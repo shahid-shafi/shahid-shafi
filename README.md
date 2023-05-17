@@ -1,7 +1,7 @@
 
 # **Shahid Shafi**
 <h3>Hi there! 👋 Welcome to my profile</h1>
-I'm a FULL-STACK web developer with expertise in a range of languages and frameworks, 
+I'm a Full Stack web developer with expertise in a range of languages and frameworks, 
 including HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, TypeScript, React, Next, Redux, Node.js, MongoDB,
  Mui, Ant Design, Git, GitHub, VS-Code, and Postman. &nbsp;
  <div align='center' style='margin-top:30px'>
