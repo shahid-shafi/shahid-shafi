@@ -3,7 +3,7 @@
 <h3>Hi there! 👋 Welcome to my profile</h1>
 I'm a Full Stack web developer with expertise in a range of languages, frameworks and tools 
 including HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, TypeScript, React, Next, Redux, Node.js, MongoDB,
- Mui, Ant Design, Git, GitHub, VS-Code, and Postman. &nbsp;
+ Mui, Ant Design, Git, GitHub, VS-Code, and Postman. &nbsp; a\
  a <br/>
  <div align='center' style='marginTop:30px'>
  <img class="gif-anime" width='80%' src="https://www.lambdatest.com/resources/images/news24.gif"  />
