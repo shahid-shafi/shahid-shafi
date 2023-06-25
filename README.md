@@ -64,8 +64,6 @@ including HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, TypeScript, React, N
 <a href="https://linkedin.com/in/shahid-shafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahid-shafi" height="30" width="40" /></a>
 <a href="https://instagram.com/shahid-shafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahid-shafi" height="30" width="40" /></a>
  
-<p align="left"> <a href="https://twitter.com/codewith_shahid" target="blank"><img src="https://img.shields.io/twitter/follow/shahid-shafi?logo=twitter&style=for-the-badge" alt="shahid-shafi" /></a> </p>
-</p>
 
 <p><img  align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shahid-shafi&show_icons=true&theme=radical"/></p>
 <p>&nbsp;<img  align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahid-shafi&layout=compact&theme=radical"/></p>
