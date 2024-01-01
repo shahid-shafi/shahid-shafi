@@ -3,8 +3,8 @@
 <h3>Hi there! 👋 Welcome to my profile</h1>
 I'm a Full Stack web developer with expertise in a range of languages, frameworks and tools 
 including HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, TypeScript, React, Next, Redux, Node.js, MongoDB,
- Mui, Ant Design, Git, GitHub, VS-Code, and Postman. &nbsp;
- 
+ Mui, Ant Design, Git, Docker, GitHub, VS-Code, and Postman. &nbsp;
+
 * Skills:
   * Front-end development using HTML, CSS, JavaScript, React, and Next.
   * Styling with Sass, Bootstrap, and Tailwind.
