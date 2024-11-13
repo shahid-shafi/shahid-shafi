@@ -1,4 +1,6 @@
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shahid-shafi&label=Profile%20views&color=EE4B2B&style=flat" alt="shahidshafi" /> </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
 # **Shahid Shafi**
 <h3>Hi there! 👋 Welcome to my profile</h1>
 Portfolio https://shahidshafi.vercel.app
@@ -25,6 +27,8 @@ including HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, TypeScript, React, N
 ### Support Me
 
 <a href="https://ko-fi.com/shahid_dev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shahid-shafi&theme=dark"/>
 
 # My Skills 
 <h3 align="left">Languages and Tools:</h3>
