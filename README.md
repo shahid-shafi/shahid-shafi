@@ -85,5 +85,5 @@ including HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, TypeScript, React, N
 
 <p align="center">
   <img src="https://github-readme-streak-stats-kv.vercel.app?user=shahid-shafi&theme=radical&hide_border=true" width="64%" alt="Shahid Shafi github-readme-streak-stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahid-shafi&show_icons=true&locale=en&layout=donut&theme=radical&hide_border=true"  width="31%" alt="Shahid Shafi" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahid-shafi&show_icons=true&locale=en&layout=donut&theme=radical&hide_border=true" height="100%"  width="31%" alt="Shahid Shafi" />
 </p>
