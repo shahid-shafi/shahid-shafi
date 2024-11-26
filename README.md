@@ -31,7 +31,14 @@ including HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, TypeScript, React, N
 
 <a href="https://ko-fi.com/shahid_dev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shahid-shafi&theme=dark"/>
+<p align="center">
+    <img src="https://github-readme-activity-graph-kv.vercel.app/graph?username=shahid-shafi&bg_color=141321&title_color=f93d7f&color=f6d647&line=ae81ff&point=f93d7f&area_color=ae81ff&radius=16&hide_border=true&hide_title=false&area=true" width="100%" alt="activity graph">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahid-shafi&theme=radical&hide_border=true"  width="64%" alt="Shahid Shafi profile-details"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahid-shafi&theme=radical"  width="31%" alt="Shahid Shafi github stats"/>
+</p>
 
 # My Skills 
 <h3 align="left">Languages and Tools:</h3>
