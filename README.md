@@ -5,7 +5,7 @@
 # **Shahid Shafi**
 <h3>Hi there! 👋 Welcome to my profile</h1>
 
-## **Portfolio https://shahidshafi.vercel.app** 
+## **Portfolio https://shahid-shafi.vercel.app** 
 Note: Portfolio is currently under development, also i will add projects in coming days.
 
 I'm a Full Stack web developer with expertise in a range of languages, frameworks and tools 
