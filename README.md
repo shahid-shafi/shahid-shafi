@@ -1,3 +1,7 @@
+<h1 align='center'>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F90F7&random=false&width=535&lines=%E2%9C%A8+Hi%2C+Thanks+for+visiting+my+profile!" alt="Typing SVG" />
+</h1>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shahid-shafi&label=Profile%20views&color=EE4B2B&style=flat" alt="shahidshafi" /> </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
