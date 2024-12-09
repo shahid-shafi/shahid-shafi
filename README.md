@@ -26,7 +26,9 @@ including HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, TypeScript, React, N
   * Collaboration and development with tools like GitHub and VSCode.
 
 * About Me
-  * I have a strong foundation in front-end development and am skilled at creating visually appealing and user-friendly websites. I am constantly learning and improving my skills in web development, and I am always looking for new challenges and opportunities to grow as a developer. My goal is to create intuitive and user-friendly websites and applications that are visually appealing and functional.
+***I am a software engineer by profession specialized in the development of innovative and effective software solutions. With over 2+ years of experience in the industry. I'm passionate about transforming ideas and creative designs into seamless, functional, and user - friendly applications.
+
+With expertise in modern frameworks and technologies like React, NextJs, ExpressJs, NestJs, Postgres and MongoDB, I'm specialized in bringing designs to life and building scalable back-end systems. Combining technical precision with a keen eye for design, I craft impactful digital experiences that merge creativity with cutting-edge development.***
 
 * Contact Me
   * I am excited to connect with other professionals in the industry and am open to new opportunities and collaborations. Feel free to reach out to me on LinkedIn or send me an email at shahidshafi.dev@gmail.com if you have any questions or would like to discuss a potential project.
