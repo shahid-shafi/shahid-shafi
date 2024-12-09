@@ -26,7 +26,7 @@ including HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, TypeScript, React, N
   * Collaboration and development with tools like GitHub and VSCode.
 
 * About Me
-I am a software engineer by profession specialized in the development of innovative and effective software solutions. With over 2+ years of experience in the industry. I'm passionate about transforming ideas and creative designs into seamless, functional, and user - friendly applications.
+ *I am a software engineer by profession specialized in the development of innovative and effective software solutions. With over 2+ years of experience in the industry. I'm passionate about transforming ideas and creative designs into seamless, functional, and user - friendly applications.
 
 With expertise in modern frameworks and technologies like React, NextJs, ExpressJs, NestJs, Postgres and MongoDB, I'm specialized in bringing designs to life and building scalable back-end systems. Combining technical precision with a keen eye for design, I craft impactful digital experiences that merge creativity with cutting-edge development.
 
