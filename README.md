@@ -18,7 +18,7 @@ including HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, TypeScript, React, N
 
 ## Skills:
 #### Frontend:
- * HTML, CSS, Sass Tailwind, Ant-Design, Material-UI, JavaScript, Typescript React, Next, Redux, React-Query, Jest, Bootstrap, and Tailwind.
+ * HTML, CSS, Sass, Tailwind, Ant-Design, Material-UI, JavaScript, Typescript React, Next, Redux, React-Query, Jest, Bootstrap, and Tailwind.
   
 #### Backend: 
   * Nodejs, ExpressJS, NestJs, Mongodb, Postgres, Mongoose and Prisma.
