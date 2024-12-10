@@ -17,13 +17,13 @@ including HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, TypeScript, React, N
  Mui, Ant Design, Git, Docker, GitHub, VS-Code, and Postman. &nbsp;
 
 ## Skills:
-### Frontend:
+#### Frontend:
  * HTML, CSS, Sass Tailwind, Ant-Design, Material-UI, JavaScript, Typescript React, Next, Redux, React-Query, Jest, Bootstrap, and Tailwind.
   
-### Backend: 
+#### Backend: 
   * Nodejs, ExpressJS, NestJs, Mongodb, Postgres, Mongoose and Prisma.
 
-### Tools:
+#### Tools:
   * Git, GitHub, Gitlab, Docker, Vscode, Linux.
 
 ## About Me
