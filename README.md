@@ -28,7 +28,9 @@ Note: Portfolio is currently under development, also i will add projects in comi
   * Git, GitHub, Gitlab, Docker, Vscode, Linux.
 
 ## Contact Me
-  * I am excited to connect with other professionals in the industry and am open to new opportunities and collaborations. Feel free to reach out to me on LinkedIn or send me an email at shahidshafi.dev@gmail.com if you have any questions or would like to discuss a potential project.
+  * I am excited to connect with other professionals in the industry and am open to new opportunities and collaborations.
+ 
+* Feel free to reach out to me on LinkedIn or send me an email at shahidshafi.dev@gmail.com if you have any questions or would like to discuss a potential project.
 
 ### Support Me
 
