@@ -16,14 +16,15 @@ I'm a Full Stack web developer with expertise in a range of languages, framework
 including HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, TypeScript, React, Next, Redux, Node.js, MongoDB,
  Mui, Ant Design, Git, Docker, GitHub, VS-Code, and Postman. &nbsp;
 
-* Skills:
-  * Front-end development using HTML, CSS, JavaScript, React, and Next.
-  * Styling with Sass, Bootstrap, and Tailwind.
-  * Modern front-end frameworks such as React and Next.
-  * Back-end development with Node.js and MongoDB.
-  * Libraries such as Context, Redux, Mui, and Ant-Design to manage state and design.
-  * Version control using Git.
-  * Collaboration and development with tools like GitHub and VSCode.
+## Skills:
+### Frontend:
+ * HTML, CSS, Sass Tailwind, Ant-Design, Material-UI, JavaScript, Typescript React, Next, Redux, React-Query, Jest, Bootstrap, and Tailwind.
+  
+### Backend: 
+  * Nodejs, ExpressJS, NestJs, Mongodb, Postgres, Mongoose and Prisma.
+
+### Tools:
+  * Git, GitHub, Gitlab, Docker, Vscode, Linux.
 
 ## About Me
  * I am a software engineer by profession specialized in the development of innovative and effective software solutions. With over 2+ years of experience in the industry. I'm passionate about transforming ideas and creative designs into seamless, functional, and user - friendly applications.
