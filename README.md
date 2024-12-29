@@ -31,11 +31,14 @@ Note: Portfolio is currently under development, also i will add projects in comi
  
 * Feel free to reach out to me on LinkedIn or send me an mail  if you have any questions or would like to discuss a potential project.
 
-shahidshafi.dev@gmail.com
+* shahidshafi.dev@gmail.com
+* <a href="https://linkedin.com/in/shahid-shafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/shahid-shafi/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahid-shafi" height="30" width="40" />Shahid Shafi</a>
 
-### Support Me
+* <a href="https://instagram.com/shahid-shafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/shahid-shafi/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahid-shafi" height="30" width="40" />_codewithshahid</a>
 
-<a href="https://ko-fi.com/shahid_dev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+ <!-- ### Support Me
+
+<a href="https://ko-fi.com/shahid_dev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a> -->
 
 <p align="center">
     <img src="https://github-readme-activity-graph-kv.vercel.app/graph?username=shahid-shafi&bg_color=141321&title_color=f93d7f&color=f6d647&line=ae81ff&point=f93d7f&area_color=ae81ff&radius=16&hide_border=true&hide_title=false&area=true" width="100%" alt="activity graph">
@@ -45,16 +48,6 @@ shahidshafi.dev@gmail.com
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahid-shafi&theme=radical&hide_border=true"  width="64%" alt="Shahid Shafi profile-details"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahid-shafi&theme=radical"  width="31%" alt="Shahid Shafi github stats"/>
 </p>
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- 
-<a href="https://twitter.com/codewith_shahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahid-shafi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shahid-shafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahid-shafi" height="30" width="40" /></a>
-<a href="https://instagram.com/shahid-shafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahid-shafi" height="30" width="40" /></a>
- 
-
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats-kv.vercel.app?user=shahid-shafi&theme=radical&hide_border=true" width="64%" alt="Shahid Shafi github-readme-streak-stats"/>
