@@ -18,47 +18,15 @@ Note: Portfolio is currently under development, also i will add projects in comi
 * With expertise in modern frameworks and technologies like React, NextJs, ExpressJs, NestJs, Postgres and MongoDB, I'm specialized in bringing designs to life and building scalable back-end systems.
 
 ## Skills:
-#### Frontend:
-<div align="left">
-  <div>
-        <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML badge" />
-        <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS badge" />
-        <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass badge" />
-  </div>
-  <div>
-        <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap badge" />
-        <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind badge" />
-        <img src="https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white" alt="Material-UI">
-        <img src="https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat&logo=ant-design&logoColor=white" alt="Ant Design">
-  </div>
-  <div>
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
-    
-  </div>
-  <div>
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
-        <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next-dot-js&logoColor=white" alt="Next.js">
-        <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux">
-        <img src="https://img.shields.io/badge/React--Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="React-Query">
-        <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=red" alt="React-Query">
-  </div>
- </div>
+
+- **Frontend**: React.js, Next.js, Redux, React Query, SCSS, Tailwind CSS, Material-UI (MUI)
   
-#### Backend: 
-  * Nodejs, ExpressJS, NestJs, Mongodb, Postgres, Mongoose and Prisma.
-<div align="left">
-        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node-dot-js&logoColor=white" alt="Node.js">
-        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
-  </div>
+- **Backend**: Node.js, Express.js, NestJS, GraphQL
   
-#### Tools:
-  * Git, GitHub, Gitlab, Docker, Vscode, Linux.
-<div align="left">
-        <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-        <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
-        <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white">
-    <div>
+- **Databases**: MongoDB, PostgreSQL, Supabase, Firebase
+  
+- **Tools & Platforms**: Prisma, Mongoose, Docker, Git, GitHub, PM2, NGINX, Postman
+
 ## Contact Me
   * I am excited to connect with other professionals in the industry and am open to new opportunities and collaborations.
  
