@@ -18,14 +18,13 @@ Note: Portfolio is currently under development, also i will add projects in comi
 * With expertise in modern frameworks and technologies like React, NextJs, ExpressJs, NestJs, Postgres and MongoDB, I'm specialized in bringing designs to life and building scalable back-end systems.
 
 ## Skills:
-
 - **Frontend**: React.js, Next.js, Redux, React Query, SCSS, Tailwind CSS, Material-UI (MUI)
   
 - **Backend**: Node.js, Express.js, NestJS, GraphQL
   
 - **Databases**: MongoDB, PostgreSQL, Supabase, Firebase
   
-- **Tools & Platforms**: Prisma, Mongoose, Docker, Git, GitHub, PM2, NGINX, Postman
+- **Tools & Platforms**: Prisma, Mongoose, Docker, Git, GitHub, PM2, NGINX, Postman, Ubuntu
 
 ## Contact Me
   * I am excited to connect with other professionals in the industry and am open to new opportunities and collaborations.
