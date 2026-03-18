@@ -13,7 +13,7 @@
 Note: Portfolio is currently under development, also i will add projects in coming days.
 
 ## About Me
- * I am a software engineer by profession specialized in the development of innovative and effective software solutions. With over 2+ years of experience in the industry. I'm passionate about transforming ideas and creative designs into seamless, functional, and user - friendly applications.
+ * I am a software engineer by profession specialized in the development of innovative and effective software solutions. With over 3+ years of experience in the industry. I'm passionate about transforming ideas and creative designs into seamless, functional, and user - friendly applications.
 
 * With expertise in modern frameworks and technologies like React, NextJs, ExpressJs, NestJs, Postgres and MongoDB, I'm specialized in bringing designs to life and building scalable back-end systems.
 
