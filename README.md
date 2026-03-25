@@ -16,7 +16,7 @@
 
 I'm a passionate **Full Stack Software Engineer** with **3+ years** of professional experience in developing innovative web applications. I specialize in creating seamless user experiences with modern frontend frameworks and building robust, scalable backend systems.
 
-Currently working on **QuickTime** - a Hubstaff alternative time tracking web portal at **Voyant Consultancy Services**.
+Currently working on **QuickTime** - time tracking web portal.
 
 - 🚀 Building production-grade applications with React, Next.js, Node.js, and .NET
 - 🎨 Crafting responsive, user-centric interfaces with modern design systems
