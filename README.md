@@ -128,7 +128,7 @@ Currently working on **Timeworks** - a Hubstaff alternative time tracking web po
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph-kv.vercel.app/graph?username=shahid-shafi&bg_color=0d1117&color=58a6ff&line=30363d&point=58a6ff&area_color=161b22&area=true&hide_border=true&hide_title=false" width="100%" alt="GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph-kv.vercel.app/graph?username=shahid-shafi&bg_color=141321&title_color=f93d7f&color=f6d647&line=ae81ff&point=f93d7f&area_color=ae81ff&radius=16&hide_border=true&hide_title=false&area=true" width="100%" alt="activity graph">
 </p>
 
 <p align="center">
@@ -137,10 +137,15 @@ Currently working on **Timeworks** - a Hubstaff alternative time tracking web po
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats-kv.vercel.app?user=shahid-shafi&theme=radical&hide_border=true" width="64%" alt="Shahid Shafi github-readme-streak-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahid-shafi&show_icons=true&locale=en&layout=donut&theme=radical&hide_border=true" height="100%"  width="31%" alt="Shahid Shafi" />
+</p>
+
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats-kv.vercel.app?user=shahid-shafi&theme=github-dark&hide_border=true" width="64%" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahid-shafi&layout=donut&theme=github_dark&hide_border=true" width="31%" alt="Top Languages"/>
 </p>
-
+  -->
 ---
 
 ## 🌐 Let's Connect
