@@ -6,6 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=3F90F7&center=true&vCenter=true&random=false&width=500&lines=Shahid+Shafi;Full+Stack+Developer;Building+Scalable+Web+Solutions" alt="Typing SVG" />
 </h1>
 
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shahid-shafi/shahid-shafi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shahid-shafi/shahid-shafi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shahid-shafi/shahid-shafi/output/github-contribution-grid-snake.svg">
+</picture> -->
+
 <p align="center">
   <em>Transforming ideas into elegant, scalable web applications | 3+ Years of Full-Stack Excellence</em>
 </p>
