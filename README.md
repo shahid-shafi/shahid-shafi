@@ -30,7 +30,7 @@ Currently working on **QuickTime** - time tracking web portal.
 
 ### Software Engineer
 **Voyant Consultancy Services** | *Feb 2025 - Present*
-- **QuickTime**: Building a Hubstaff alternative time tracking and productivity management platform
+- **QuickTime**: Building a time tracking and productivity management platform
 - **QuickChat**: Developing a real-time chat application built on Matrix server
 - Working with cutting-edge technologies in a collaborative, agile environment
 
