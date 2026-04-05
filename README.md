@@ -23,12 +23,17 @@
 I'm a passionate **Full Stack Software Engineer** with **3+ years** of professional experience in developing innovative web applications. I specialize in creating seamless user experiences with modern frontend frameworks and building robust, scalable backend systems.
 
 Currently working on **QuickTime** - time tracking web portal.
+  
+-  🚀 Building production-grade applications with React, Next.js, Node.js, and .NET
+-  🎨 Crafting responsive, user-centric interfaces with modern design systems
+-  🏗️ Designing and implementing scalable backend architectures
+-  🤖 Leveraging AI tools like Copilot and Claude for faster iteration and “vibe coding” workflows
+-  ⚖️ Balancing speed with strong fundamentals — ensuring I deeply understand what I ship, not just generate it
+-  🧠 Using AI as an accelerator, not a shortcut — validating logic, optimizing code, and refining architecture
+-  📚 Continuously learning, revisiting core concepts, and staying updated with the latest tech trends
+-  🧩 Focused on writing clean, maintainable code with solid engineering principles
+-  🤝 Passionate about collaboration, code reviews, and building reliable systems at scale
 
-- 🚀 Building production-grade applications with React, Next.js, Node.js, and .NET
-- 🎨 Crafting responsive, user-centric interfaces with modern design systems
-- 🏗️ Designing and implementing scalable backend architectures
-- 📚 Continuously learning and staying updated with latest tech trends
-- 🤝 Passionate about clean code, best practices, and team collaboration
 
 ---
 
