@@ -38,9 +38,6 @@ I use Claude Code and Copilot daily, as an accelerator — never a substitute fo
     <td width="50%"><img src="assets/projects/hireeasy.svg" width="100%" alt="HireEasy — recruitment and interview management. React, Express, MongoDB." /></td>
     <td width="50%"><img src="assets/projects/crm.svg" width="100%" alt="CRM — admin dashboard, web portal and API. Next.js, NestJS, PostgreSQL." /></td>
   </tr>
-  <tr>
-    <td colspan="2" align="center"><img src="assets/projects/pms.svg" width="50%" alt="PMS — collaborative project planning and tracking. React, Node.js." /></td>
-  </tr>
 </table>
 
 <sub>Live: <a href="https://nutsandcrafts.com">nutsandcrafts.com</a> · <a href="https://swagra.vercel.app">swagra.vercel.app</a>. QuickTime and QuickChat are client work at Voyant; the source for every project here is private.</sub>
