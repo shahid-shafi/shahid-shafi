@@ -28,19 +28,22 @@ I use Claude Code and Copilot daily, as an accelerator — never a substitute fo
 <table>
   <tr>
     <td width="50%"><a href="https://nutsandcrafts.com"><img src="assets/projects/nuts-and-crafts.svg" width="100%" alt="Nuts & Crafts — e-commerce for authentic Kashmiri saffron, dry fruits, spices and honey. .NET 10, Next.js 16, PostgreSQL, Azure." /></a></td>
+    <td width="50%"><a href="https://swagra.vercel.app"><img src="assets/projects/swagra.svg" width="100%" alt="Swagra — client-only OpenAPI workspace and API client, shipped as a web app and Chrome and VS Code extensions. React, TypeScript, Vite, Zustand." /></a></td>
+  </tr>
+  <tr>
     <td width="50%"><img src="assets/projects/quicktime.svg" width="100%" alt="QuickTime — time tracking and productivity platform. Next.js, NestJS, PostgreSQL, Docker." /></td>
-  </tr>
-  <tr>
     <td width="50%"><img src="assets/projects/quickchat.svg" width="100%" alt="QuickChat — real-time chat on a Matrix server. React, TypeScript, Node.js, Socket.io." /></td>
-    <td width="50%"><img src="assets/projects/hireeasy.svg" width="100%" alt="HireEasy — recruitment and interview management. React, Express, MongoDB." /></td>
   </tr>
   <tr>
+    <td width="50%"><img src="assets/projects/hireeasy.svg" width="100%" alt="HireEasy — recruitment and interview management. React, Express, MongoDB." /></td>
     <td width="50%"><img src="assets/projects/crm.svg" width="100%" alt="CRM — admin dashboard, web portal and API. Next.js, NestJS, PostgreSQL." /></td>
-    <td width="50%"><img src="assets/projects/pms.svg" width="100%" alt="PMS — collaborative project planning and tracking. React, Node.js." /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="assets/projects/pms.svg" width="50%" alt="PMS — collaborative project planning and tracking. React, Node.js." /></td>
   </tr>
 </table>
 
-<sub>Nuts & Crafts is live at <a href="https://nutsandcrafts.com">nutsandcrafts.com</a>. QuickTime and QuickChat are client work at Voyant; the source for all six is private.</sub>
+<sub>Live: <a href="https://nutsandcrafts.com">nutsandcrafts.com</a> · <a href="https://swagra.vercel.app">swagra.vercel.app</a>. QuickTime and QuickChat are client work at Voyant; the source for every project here is private.</sub>
 
 ## Stack
 
