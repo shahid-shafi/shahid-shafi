@@ -1,189 +1,100 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Shahid%20Shafi&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20engineer%20%C2%B7%20.NET%20%C2%B7%20Next.js%20%C2%B7%20Kashmir&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Shahid Shafi" />
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahid-shafi&label=Profile%20views&color=3F90F7&style=flat-square" alt="Profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=I+build+products+end+to+end%2C+API+to+pixel.;Building+Nuts+%26+Crafts+%E2%80%94+saffron+%26+dry+fruits+from+Kashmir.;Clean+code%2C+honest+UX%2C+systems+that+hold+up." alt="Typing intro" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=3F90F7&center=true&vCenter=true&random=false&width=500&lines=Shahid+Shafi;Full+Stack+Developer;BBuilding+Scalable+Web+Solutions" alt="Typing SVG" />
-</h1>
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shahid-shafi/shahid-shafi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shahid-shafi/shahid-shafi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shahid-shafi/shahid-shafi/output/github-contribution-grid-snake.svg">
-</picture> -->
-
 <p align="center">
-  <em>Transforming ideas into elegant, scalable web applications | 3+ Years of Full-Stack Excellence</em>
+  <a href="https://shahid-shafi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/shahid-shafi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/codewith_shahid"><img src="https://img.shields.io/badge/@codewith__shahid-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:shahidshafi.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=shahid-shafi&label=views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-## 🎯 About Me
+### 👋 Hi, I'm Shahid
 
-I'm a passionate **Full Stack Software Engineer** with **3+ years** of professional experience in developing innovative web applications. I specialize in creating seamless user experiences with modern frontend frameworks and building robust, scalable backend systems.
+Full-stack software engineer with **4 years** of shipping web products — React and Next.js on the front, .NET and Node on the back, Postgres underneath. I like owning a feature from the database migration to the last loading skeleton.
 
-Currently working on **QuickTime** - time tracking web portal.
-  
--  🚀 Building production-grade applications with React, Next.js, Node.js, and .NET
--  🎨 Crafting responsive, user-centric interfaces with modern design systems
--  🏗️ Designing and implementing scalable backend architectures
--  🤖 Leveraging AI tools like Copilot and Claude for faster iteration and “vibe coding” workflows
--  ⚖️ Balancing speed with strong fundamentals — ensuring I deeply understand what I ship, not just generate it
--  🧠 Using AI as an accelerator, not a shortcut — validating logic, optimizing code, and refining architecture
--  📚 Continuously learning, revisiting core concepts, and staying updated with the latest tech trends
--  🧩 Focused on writing clean, maintainable code with solid engineering principles
--  🤝 Passionate about collaboration, code reviews, and building reliable systems at scale
-
+- 🌰 **Building [Nuts & Crafts](https://nutsandcrafts.com)** — our family's online shop for Kashmiri saffron, nuts and dry fruits
+- 💼 **Software Engineer at Voyant Consultancy Services** — QuickTime (time tracking) and QuickChat (Matrix-based chat)
+- 🤖 Use Claude Code and Copilot daily — as an accelerator, never a substitute for understanding what ships
+- 🌱 Currently deep in: .NET 10, React 19 / Next.js 16, payments, and making checkout boringly reliable
 
 ---
 
-## 💼 Professional Experience
+### 🌰 Spotlight — Nuts & Crafts
 
-### Software Engineer
-**Voyant Consultancy Services** | *Feb 2025 - Present*
-- **QuickTime**: Building a time tracking and productivity management platform
-- **QuickChat**: Developing a real-time chat application built on Matrix server
-- Working with cutting-edge technologies in a collaborative, agile environment
+<table>
+<tr>
+<td width="62%" valign="top">
 
-### Software Engineer
-**Inara Consultancy Services** | *Nov 2022 - Feb 2025* (2+ years)
-- Specialized in **React.js**, **Next.js**, and modern JavaScript technologies
-- Collaborated with cross-functional teams to design and develop scalable web applications
-- Implemented RESTful APIs ensuring seamless frontend-backend communication
-- Participated in code reviews and agile sprints
-- Tackled performance optimization and technical challenges through team coordination
-- Aligned technical solutions with business requirements
+A direct-to-customer store for saffron from Pampore and nuts from the valley orchards, built from scratch: storefront, admin panel and vendor portal in one codebase.
 
----
+- **Checkout** — single-page checkout, guest accounts, coupons, Razorpay + cash on delivery
+- **Orders** — stock ledger with reservations, COD confirmation over WhatsApp, refunds, invoices
+- **Admin** — catalogue, moderation, roles & permissions, email campaigns, live notifications
+- **Reach** — product pages in 11 Indian languages, SEO and a merchant feed
 
-## 🛠️ Technical Skills
+<sub>🚧 Launching soon · <a href="https://nutsandcrafts.com">nutsandcrafts.com</a></sub>
 
-### **Programming Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+</td>
+<td width="38%" valign="top">
 
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-0050B3?style=for-the-badge&logo=antdesign&logoColor=white)
-![Shadcn/ui](https://img.shields.io/badge/Shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Built with**
 
-**Additional**: Storybook, Jest, TanStack Table
+<img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,nextjs,react,ts,tailwind,azure&perline=4" alt="Nuts & Crafts stack" />
 
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
+<sub>.NET 10 vertical-slice API · Next.js 16 · Supabase Postgres · SignalR · Razorpay · Azure Blob · Brevo · WhatsApp Cloud API · Render + Vercel</sub>
 
-**Additional**: Jest
-
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **Developer Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Additional**: GitHub Copilot, Claude Code
+</td>
+</tr>
+</table>
 
 ---
 
-## 📁 Featured Projects
-
-### **QuickTime** | Time Tracking & Productivity Management
-- Real-time time tracking platform similar to Hubstaff
-- **Tech Stack**: React/Next.js, Node.js/NestJS, PostgreSQL, Docker
-- Features: Activity monitoring, project management, reporting dashboard
-- **Status**: Currently developing at Voyant Consultancy Services
-
-### **QuickChat** | Real-time Chat Application
-- Matrix server-based chat platform
-- **Tech Stack**: React, TypeScript, Node.js, Socket.io
-- **Status**: In development at Voyant Consultancy Services
-
-### **HireEasy** | Hiring & Interview Process Management System
-- Comprehensive recruitment and interview management platform
-- Streamlined candidate tracking and interview scheduling
-- **Tech Stack**: React, Express, MongoDB
-
-### **CRM System** | Admin & Web Portal
-- Customer Relationship Management platform
-- **Components**: Admin Dashboard, Web Portal, API
-- **Tech Stack**: Next.js, NestJs/Node.js, PostgreSQL
-
-### **Personal Admin Project** | E-commerce Management
-- E-commerce website with admin dashboard (currently developing)
-- Product management, order tracking, analytics
-- **Tech Stack**: Next.js, Tailwind, ShadCN, .Net, Postgres
-
-### **PMS** | Project Management System
-- Collaborative project planning and tracking tool
-- Task management, team collaboration features
-
----
-
-## 📊 GitHub Statistics
+### 🛠️ Tech I work with
 
 <p align="center">
-    <img src="https://github-readme-activity-graph-kv.vercel.app/graph?username=shahid-shafi&bg_color=141321&title_color=f93d7f&color=f6d647&line=ae81ff&point=f93d7f&area_color=ae81ff&radius=16&hide_border=true&hide_title=false&area=true" width="100%" alt="activity graph">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahid-shafi&theme=github_dark&hide_border=true" width="64%" alt="Profile Details"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahid-shafi&theme=github_dark&hide_border=true" width="31%" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-kv.vercel.app?user=shahid-shafi&theme=radical&hide_border=true" width="64%" alt="Shahid Shafi github-readme-streak-stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahid-shafi&show_icons=true&locale=en&layout=donut&theme=radical&hide_border=true" height="100%"  width="31%" alt="Shahid Shafi" />
-</p>
-
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats-kv.vercel.app?user=shahid-shafi&theme=github-dark&hide_border=true" width="64%" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahid-shafi&layout=donut&theme=github_dark&hide_border=true" width="31%" alt="Top Languages"/>
-</p>
-  -->
----
-
-## 🌐 Let's Connect
-
-I'm always excited to collaborate on interesting projects and connect with fellow developers. Feel free to reach out!
-
-<p align="center">
-  <a href="https://linkedin.com/in/shahid-shafi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:shahidshafi.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://instagram.com/shahid-shafi" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://shahid-shafi.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-3F90F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,js,cs,react,nextjs,redux,tailwind,nodejs,express,nestjs,dotnet,prisma,postgres,mongodb,docker,azure,git,github,gitlab,vscode,postman,jest&perline=11" alt="Tech stack" />
 </p>
 
 ---
 
+### 📁 Things I've built
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| 🌰 **Nuts & Crafts** | E-commerce: storefront, admin and vendor portal | .NET · Next.js · Postgres |
+| ⏱️ **QuickTime** | Time tracking & productivity platform *(Voyant)* | Next.js · NestJS · Postgres · Docker |
+| 💬 **QuickChat** | Real-time chat on a Matrix server *(Voyant)* | React · TypeScript · Node.js |
+| 🧑‍💼 **HireEasy** | Hiring and interview pipeline management | React · Express · MongoDB |
+| 📇 **CRM** | Admin dashboard, customer portal and API | Next.js · NestJS · Postgres |
+| 📋 **PMS** | Project planning, tasks and team collaboration | React · Node.js |
+
+---
+
+### 💼 Experience
+
+**Software Engineer · Voyant Consultancy Services** — *Feb 2025 – present*
+QuickTime and QuickChat, in an agile team.
+
+**Software Engineer · Inara Consultancy Services** — *Nov 2022 – Feb 2025*
+React and Next.js apps with cross-functional teams: REST APIs, performance work, code reviews.
+
+---
+
+### 📊 GitHub
+
 <p align="center">
-  <em>Passionate about clean code, scalability, and creating products that make a difference.</em>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shahid-shafi&theme=tokyonight&hide_border=true&background=0D1117" width="49%" alt="Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahid-shafi&theme=tokyonight" width="49%" alt="Stats" />
 </p>
 
 <p align="center">
-  ⭐ If you find my work interesting, feel free to star my repositories!
+  <img src="https://github-readme-activity-graph-kv.vercel.app/graph?username=shahid-shafi&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Contribution graph" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt="" />
