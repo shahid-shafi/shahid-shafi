@@ -88,7 +88,7 @@ I use Claude Code and Copilot daily, as an accelerator — never a substitute fo
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahid-shafi&theme=github_dark" height="165" alt="Most-used languages by commits" />
-  <img src="https://streak-stats.demolab.com?user=shahid-shafi&background=0D1117&border=30363D&ring=2DD4BF&fire=2DD4BF&currStrNum=2DD4BF&sideNums=C9D1D9&currStrLabel=2DD4BF&sideLabels=8B949E&dates=8B949E&stroke=30363D&hide_border=true" height="165" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=shahid-shafi&background=0D1117&border=30363D&ring=2DD4BF&fire=2DD4BF&currStreakNum=2DD4BF&sideNums=C9D1D9&currStreakLabel=2DD4BF&sideLabels=8B949E&dates=8B949E&stroke=30363D&hide_border=true" height="165" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
