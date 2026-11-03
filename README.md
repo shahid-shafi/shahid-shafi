@@ -26,18 +26,21 @@ I use Claude Code and Copilot daily, as an accelerator — never a substitute fo
 ## Featured projects
 
 <p align="center">
-  <a href="https://nutsandcrafts.com"><img src="assets/projects/nuts-and-crafts.svg" width="49%" alt="Nuts & Crafts — e-commerce for authentic Kashmiri saffron, dry fruits, spices and honey. .NET 10, Next.js 16, PostgreSQL, Azure." /></a>
-  <a href="https://swagra.vercel.app"><img src="assets/projects/swagra.svg" width="49%" alt="Swagra — client-only OpenAPI workspace and API client, shipped as a web app and Chrome and VS Code extensions. React, TypeScript, Vite, Zustand." /></a>
+  <a href="https://nutsandcrafts.com"><img src="assets/projects/nuts-and-crafts.svg" width="46%" alt="Nuts & Crafts — e-commerce for authentic Kashmiri saffron, dry fruits, spices and honey. .NET 10, Next.js 16, PostgreSQL, Azure." /></a>
+  &emsp;
+  <a href="https://swagra.vercel.app"><img src="assets/projects/swagra.svg" width="46%" alt="Swagra — client-only OpenAPI workspace and API client, shipped as a web app and Chrome and VS Code extensions. React, TypeScript, Vite, Zustand." /></a>
 </p>
 
 <p align="center">
-  <img src="assets/projects/quicktime.svg" width="49%" alt="QuickTime — time tracking and productivity platform. Next.js, NestJS, PostgreSQL, Docker." />
-  <img src="assets/projects/quickchat.svg" width="49%" alt="QuickChat — real-time chat on a Matrix server. React, TypeScript, Node.js, Socket.io." />
+  <img src="assets/projects/quicktime.svg" width="46%" alt="QuickTime — time tracking and productivity platform. Next.js, NestJS, PostgreSQL, Docker." />
+  &emsp;
+  <img src="assets/projects/quickchat.svg" width="46%" alt="QuickChat — real-time chat on a Matrix server. React, TypeScript, Node.js, Socket.io." />
 </p>
 
 <p align="center">
-  <img src="assets/projects/hireeasy.svg" width="49%" alt="HireEasy — recruitment and interview management. React, Express, MongoDB." />
-  <img src="assets/projects/crm.svg" width="49%" alt="CRM — admin dashboard, web portal and API. Next.js, NestJS, PostgreSQL." />
+  <img src="assets/projects/hireeasy.svg" width="46%" alt="HireEasy — recruitment and interview management. React, Express, MongoDB." />
+  &emsp;
+  <img src="assets/projects/crm.svg" width="46%" alt="CRM — admin dashboard, web portal and API. Next.js, NestJS, PostgreSQL." />
 </p>
 
 <sub>Live: <a href="https://nutsandcrafts.com">nutsandcrafts.com</a> · <a href="https://swagra.vercel.app">swagra.vercel.app</a>. QuickTime and QuickChat are client work at Voyant; the source for every project here is private.</sub>
