@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="210" viewBox="0 0 600 210" role="img" aria-labelledby="t"><title id="t">HireEasy — Recruitment and interview management — candidate tracking and interview scheduling.</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#58A6FF" stop-opacity=".07"/><stop offset=".6" stop-color="#58A6FF" stop-opacity="0"/></linearGradient></defs>
+<rect x=".5" y=".5" width="599" height="209" rx="12" fill="#0D1117" stroke="#30363D" stroke-opacity="1"/>
+<rect x="1" y="1" width="598" height="208" rx="11.5" fill="url(#g)"/>
+<rect x="28" y="30" width="4" height="40" rx="2" fill="#58A6FF"/>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+<text x="46" y="46" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#58A6FF">HIRING PLATFORM</text>
+<text x="46" y="78" font-size="26" font-weight="700" fill="#F0F6FC">HireEasy</text>
+<text x="30" y="110" font-size="15" fill="#8B949E">Recruitment and interview management — candidate</text>
+<text x="30" y="132" font-size="15" fill="#8B949E">tracking and interview scheduling.</text>
+</g>
+<g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">
+<rect x="30" y="160" width="57" height="26" rx="13" fill="#161B22" stroke="#30363D"/><text x="58" y="177">React</text>
+<rect x="95.0" y="160" width="72" height="26" rx="13" fill="#161B22" stroke="#30363D"/><text x="131" y="177">Express</text>
+<rect x="174.8" y="160" width="72" height="26" rx="13" fill="#161B22" stroke="#30363D"/><text x="211" y="177">MongoDB</text>
+</g>
+</svg>
