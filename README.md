@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Shahid%20Shafi&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20engineer%20%C2%B7%20.NET%20%C2%B7%20Next.js%20%C2%B7%20Kashmir&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Shahid Shafi" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=I+build+products+end+to+end%2C+API+to+pixel.;Building+Nuts+%26+Crafts+%E2%80%94+saffron+%26+dry+fruits+from+Kashmir.;Clean+code%2C+honest+UX%2C+systems+that+hold+up." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=I+build+products+end+to+end.;Building+Nuts+%26+Crafts+%F0%9F%8C%B0;Saffron+%26+dry+fruits+from+Kashmir.;Clean+code%2C+systems+that+hold+up." alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -78,10 +78,10 @@ A direct-to-customer store for saffron from Pampore and nuts from the valley orc
 
 ### 💼 Experience
 
-**Software Engineer · Voyant Consultancy Services** — *Feb 2025 – present*
+**Software Engineer · Voyant Consultancy Services** — *Feb 2025 – present*  
 QuickTime and QuickChat, in an agile team.
 
-**Software Engineer · Inara Consultancy Services** — *Nov 2022 – Feb 2025*
+**Software Engineer · Inara Consultancy Services** — *Nov 2022 – Feb 2025*  
 React and Next.js apps with cross-functional teams: REST APIs, performance work, code reviews.
 
 ---
@@ -89,7 +89,7 @@ React and Next.js apps with cross-functional teams: REST APIs, performance work,
 ### 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shahid-shafi&theme=tokyonight&hide_border=true&background=0D1117" width="49%" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shahid-shafi&theme=tokyonight&hide_border=true" width="49%" alt="Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahid-shafi&theme=tokyonight" width="49%" alt="Stats" />
 </p>
 
