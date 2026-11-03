@@ -1,10 +1,10 @@
 <a href="https://shahid-shafi.vercel.app"><img src="assets/hero.svg" width="100%" alt="Shahid Shafi — Full-Stack Software Engineer. Building products. Solving problems. Shipping software. .NET, React, Next.js, Node.js." /></a>
 
 <p align="center">
-  <a href="https://shahid-shafi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=2DD4BF" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/shahid-shafi"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=2DD4BF" alt="LinkedIn" /></a>
-  <a href="https://x.com/codewith_shahid"><img src="https://img.shields.io/badge/@codewith__shahid-0D1117?style=flat-square&logo=x&logoColor=2DD4BF" alt="X" /></a>
-  <a href="mailto:shahidshafi.dev@gmail.com"><img src="https://img.shields.io/badge/shahidshafi.dev@gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=2DD4BF" alt="Email" /></a>
+  <a href="https://shahid-shafi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-21262D?style=flat-square&logo=vercel&logoColor=2DD4BF" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/shahid-shafi"><img src="https://img.shields.io/badge/LinkedIn-21262D?style=flat-square&logo=linkedin&logoColor=2DD4BF" alt="LinkedIn" /></a>
+  <a href="https://x.com/codewith_shahid"><img src="https://img.shields.io/badge/@codewith__shahid-21262D?style=flat-square&logo=x&logoColor=2DD4BF" alt="X" /></a>
+  <a href="mailto:shahidshafi.dev@gmail.com"><img src="https://img.shields.io/badge/shahidshafi.dev@gmail.com-21262D?style=flat-square&logo=gmail&logoColor=2DD4BF" alt="Email" /></a>
 </p>
 
 ## About
@@ -17,11 +17,11 @@ I use Claude Code and Copilot daily, as an accelerator — never a substitute fo
 
 ## Currently building
 
-| | Project | What it is |
-| :-- | :-- | :-- |
-| ◆ | **[Nuts & Crafts](https://nutsandcrafts.com)** | Authentic Kashmiri saffron, dry fruits, spices and honey, sold direct. Storefront, admin panel and vendor portal in one codebase — Razorpay and cash-on-delivery checkout, a stock ledger with reservations, WhatsApp order confirmation, product pages in 11 Indian languages. *Launching soon.* |
-| ◇ | **QuickTime** | Time tracking and productivity platform, at Voyant Consultancy Services. |
-| ◇ | **QuickChat** | Real-time chat application on a Matrix server, at Voyant Consultancy Services. |
+| Project | What it is |
+| :-- | :-- |
+| **[Nuts&nbsp;&&nbsp;Crafts](https://nutsandcrafts.com)** | Authentic Kashmiri saffron, dry fruits, spices and honey, sold direct. Storefront, admin panel and vendor portal in one codebase — Razorpay and cash-on-delivery checkout, a stock ledger with reservations, WhatsApp order confirmation, product pages in 11 Indian languages. *Launching soon.* |
+| **QuickTime** | Time tracking and productivity platform, at Voyant Consultancy Services. |
+| **QuickChat** | Real-time chat application on a Matrix server, at Voyant Consultancy Services. |
 
 ## Featured projects
 
@@ -87,9 +87,8 @@ I use Claude Code and Copilot daily, as an accelerator — never a substitute fo
 ## GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahid-shafi&theme=github_dark" height="170" alt="GitHub stats: stars, commits, pull requests and contributions" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahid-shafi&theme=github_dark" height="170" alt="Most-used languages by commits" />
-  <img src="https://streak-stats.demolab.com?user=shahid-shafi&background=0D1117&border=30363D&ring=2DD4BF&fire=2DD4BF&currStrNum=2DD4BF&sideNums=C9D1D9&currStrLabel=2DD4BF&sideLabels=8B949E&dates=8B949E&stroke=30363D&hide_border=true" height="170" alt="GitHub contribution streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahid-shafi&theme=github_dark" height="165" alt="Most-used languages by commits" />
+  <img src="https://streak-stats.demolab.com?user=shahid-shafi&background=0D1117&border=30363D&ring=2DD4BF&fire=2DD4BF&currStrNum=2DD4BF&sideNums=C9D1D9&currStrLabel=2DD4BF&sideLabels=8B949E&dates=8B949E&stroke=30363D&hide_border=true" height="165" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
